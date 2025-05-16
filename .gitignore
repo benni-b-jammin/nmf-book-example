@@ -1,3 +1,4 @@
 # .gitignore exludes saved matrix files, .out files
+*.swp
 *.pkl
 *.out
