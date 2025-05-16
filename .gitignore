@@ -1,2 +1,3 @@
-# .gitignore exludes saved matrix files
+# .gitignore exludes saved matrix files, .out files
 *.pkl
+*.out
