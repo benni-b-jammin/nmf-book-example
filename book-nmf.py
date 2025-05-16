@@ -106,7 +106,7 @@ def calculate_rank(data):
         
         # Increment rank if RMSE isn't smaller than the benchmark
         rank += 1
-        print(rank)
+        print(rank, RSME, benchmark)
 
     return rank
 
