@@ -6,7 +6,7 @@ book-nmf.py   - simple program that utilizes sklearn's NMF package to organize
                 links to data and article)
                 
 Author:         Benji Lawrence
-Last Modified:  May 15, 2025
+Last Modified:  May 20, 2025
 '''
 # necessary packages for implementation
 import numpy as np
